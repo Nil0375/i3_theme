@@ -7,6 +7,7 @@
 * rofi
 * [picom-ibhagwan-git](https://github.com/ibhagwan/picom)
 * pulseaudio
+* feh
 
 ## 使用字形
 * Iosevka Nerd Font
@@ -20,4 +21,7 @@
 
 ## 使用主題
 * Arc
+
+## 螢幕鎖定使用
+* i3lock-color + [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
 
