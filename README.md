@@ -22,6 +22,11 @@
 ## 使用主題
 * Arc
 
+## 圖片
+* [桌布](https://www.pinterest.com/pin/277675133265763199/?d=t&mt=signup)
+
 ## 螢幕鎖定使用
 * i3lock-color + [betterlockscreen](https://github.com/betterlockscreen/betterlockscreen)
 
+# 預覽
+* ![](image.png)
