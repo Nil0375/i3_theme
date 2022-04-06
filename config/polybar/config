@@ -138,7 +138,7 @@ font-4 = feather:size=16;4
 font-5 = Iosevka Nerd Font:size=14;2
 font-6 = Iosevka Nerd Font:size=11;2
 
-modules-left = 
+modules-left =  now-playing
 modules-center = date 
 modules-right = sep i3
 

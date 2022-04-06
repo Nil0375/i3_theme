@@ -8,6 +8,8 @@
 * [picom-ibhagwan-git](https://github.com/ibhagwan/picom)
 * pulseaudio
 * feh
+* [polybar-now-playing](https://github.com/d093w1z/polybar-now-playing)
+* playerctl
 
 ## 使用字形
 * Iosevka Nerd Font
