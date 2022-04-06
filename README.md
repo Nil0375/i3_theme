@@ -20,9 +20,13 @@
 
 ## 使用icon
 * papirus
+* [Flat-remix](https://github.com/daniruiz/flat-remix)
+* [Colloid](https://github.com/vinceliuice/Colloid-icon-theme)
 
 ## 使用主題
-* Arc
+* [Arc](https://github.com/horst3180/arc-theme)
+* [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)
+* [Flat-remix](https://github.com/daniruiz/flat-remix-gtk/)
 
 ## 圖片
 * [桌布](https://www.pinterest.com/pin/277675133265763199/?d=t&mt=signup)
