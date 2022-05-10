@@ -28,6 +28,9 @@
 * [Colloid](https://github.com/vinceliuice/Colloid-gtk-theme)
 * [Flat-remix](https://github.com/daniruiz/flat-remix-gtk/)
 
+## Grub 主題
+* [darkmatter-grub2-theme](https://github.com/vandalsoul/darkmatter-grub2-theme/)
+
 ## 圖片
 * [桌布](https://www.pinterest.com/pin/277675133265763199/?d=t&mt=signup)
 
